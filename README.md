@@ -1,24 +1,26 @@
-# 💼 Job Application Tracker (Spring Boot + MySQL)
+# 💼 Job Application Tracker (Spring Boot + JSP + MySQL)
 
-A backend REST API built using **Java Spring Boot** and **MySQL**, allowing users to perform **CRUD operations** on job applications. This project is designed to demonstrate practical use of RESTful architecture, Java classes, and database connectivity in a real-world context.
+A full-stack **Job Application Tracking System** built using **Java Spring Boot**, **JSP**, and **MySQL**. This system allows users to perform full **CRUD operations** on job applications through both RESTful APIs and a **basic JSP-based user interface**.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Language:** Java
-- **Framework:** Spring Boot
+- **Backend:** Java 17, Spring Boot, Spring MVC, Spring Data JPA
+- **Frontend:** JSP (JavaServer Pages), HTML, CSS
 - **Database:** MySQL
 - **Build Tool:** Maven
-- **Testing Tool:** Postman
+- **Testing:** Postman (for API testing)
 
 ---
 
-## 🔧 Features (CRUD Operations)
+## ✅ Features
 
-- ➕ **Create** a new job application
-- 📋 **Read** all job applications or a specific one by ID
-- 📝 **Update** an existing job application
-- ❌ **Delete** a job application
+- ➕ **Add** new job applications
+- 📋 **View** all job listings
+- 📝 **Edit/Update** existing job entries
+- ❌ **Delete** job entries
+- 🌐 Basic **UI built using JSP**
+- 🧪 RESTful API support (testable via Postman)
 
 ---
