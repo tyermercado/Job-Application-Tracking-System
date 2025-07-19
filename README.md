@@ -9,7 +9,7 @@ A full-stack **Job Application Tracking System** built using **Spring Boot**, **
 - **Backend:** Java, Spring Boot, Spring MVC
 - **View:** JSP (JavaServer Pages)
 - **ORM:** Java Persistence API (JPA), Hibernate
-- **Database:** H2 (in-memory or file-based)
+- **Database:** (in-memory or file-based)
 - **Build Tool:** Maven
 
 ---
