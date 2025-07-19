@@ -1,6 +1,6 @@
 # 💼 Job Application Tracker (Spring Boot + JSP + JPA)
 
-A full-stack **Job Application Tracking System** built using **Spring Boot**, **JSP**, and **Java ORM (JPA with Hibernate)**. It supports complete **CRUD operations** on job applications, with a basic web UI and persistence handled by an embedded database like **H2**.
+A full-stack **Job Application Tracking System** built using **Spring Boot**, **JSP**, and **Java ORM (JPA with Hibernate)**. It supports complete **CRUD operations** on job applications, with a basic web UI.
 
 ---
 
